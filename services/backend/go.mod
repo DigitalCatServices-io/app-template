@@ -7,15 +7,15 @@ require (
 	github.com/cortesi/termlog v0.0.0-20210222042314-a1eec763abec
 	github.com/go-sqlx/sqlx v1.3.8
 	github.com/gofiber/fiber/v2 v2.52.6
-	github.com/gofiber/swagger v1.1.0
+	github.com/gofiber/swagger v1.1.1
 	github.com/golang-jwt/jwt v3.2.2+incompatible
-	github.com/golang-migrate/migrate/v4 v4.18.1
+	github.com/golang-migrate/migrate/v4 v4.18.2
 	github.com/google/uuid v1.6.0
 	github.com/lib/pq v1.10.9
 	github.com/qeesung/image2ascii v1.0.1
 	github.com/spf13/cobra v1.8.1
 	github.com/swaggo/swag v1.16.4
-	golang.org/x/oauth2 v0.25.0
+	golang.org/x/oauth2 v0.26.0
 	gotest.tools v2.2.0+incompatible
 )
 
@@ -54,17 +54,17 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/swaggo/files/v2 v2.0.0 // indirect
+	github.com/swaggo/files/v2 v2.0.2 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.51.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0 // indirect
 	go.uber.org/atomic v1.11.0 // indirect
-	golang.org/x/crypto v0.29.0 // indirect
-	golang.org/x/net v0.31.0 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
-	golang.org/x/term v0.26.0 // indirect
-	golang.org/x/text v0.20.0 // indirect
+	golang.org/x/term v0.27.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/tools v0.24.0 // indirect
 
 )
